@@ -1,4 +1,4 @@
-# Grassland Site Identification
+# Grassland Project Site Identification
 
 These plots are intended to be used together with the [Google Earth Engine interactive site explorer](https://users/jdmwhite/) to help show the legends and summaries for the land cover and environmental layers. 
 
