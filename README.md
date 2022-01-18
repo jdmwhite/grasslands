@@ -11,7 +11,7 @@ Figure 2. Rainfall maps, showing A) the rainfall across South Africa's grassland
 ![sand_maps](https://user-images.githubusercontent.com/22145011/149953410-8bf26846-9877-4a9b-a763-a9378eb81399.png)
 Figure 3. Sand content maps, showing A) the sand content across South Africa's grasslands and B) dichotomised sand content into low and high at a 60 % threshold.
 
-![dichot_mar_snd_map](https://user-images.githubusercontent.com/22145011/149902490-17f380ca-dc1a-460f-9000-bbc7863fe696.png)
+![dichot_mar_snd_map](https://user-images.githubusercontent.com/22145011/149957883-8a9bc255-0232-4f93-a3f1-a44d11bebbef.png)
 Figure 4. The factorial map of low and high Mean Annual Rainfall and Sand Content, respectively. Derived from Figures 2b and 3b. 
 
 ![SANLC_2018_Legend_both](https://user-images.githubusercontent.com/22145011/149907748-5a526f49-f353-48fb-a584-e04d14c22f3f.png)
