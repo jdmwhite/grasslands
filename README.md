@@ -14,6 +14,7 @@ Figure 3. Sand content maps, showing A) the sand content across South Africa's g
 Figure 4. 
 
 ![SANLC_2018_Legend_both](https://user-images.githubusercontent.com/22145011/149907748-5a526f49-f353-48fb-a584-e04d14c22f3f.png)
+
 Figure 5. The legend for the SA NLC Map 2018
 
 Data sources:
