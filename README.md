@@ -18,8 +18,8 @@ Figure 4.
 Figure 5. The legend for the SA NLC Map 2018
 
 Data sources:
-- South African National Vegetation Map 2018 (SANBI)
-- South African National Land Cover Map 2018 ()
-- SRTM
-- Hengl et al. 2021
-- Worldclim
+- South African National Vegetation Map 2018 (SANBI) (https://bgis.sanbi.org/SpatialDataset/Detail/1674)
+- South African National Land Cover Map 2018 (DAFF) (https://egis.environment.gov.za/gis_data_downloads)
+- Shuttle Radar Topography Mission (NASA) (https://srtm.csi.cgiar.org/)
+- iSDAsoil Predicted Soil Properties for Africa 30m (https://doi.org/10.1038/s41598-021-85639-y)
+- Worldclim BIO Variables (https://doi:10.1002/joc.1276)
