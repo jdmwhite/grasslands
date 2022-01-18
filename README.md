@@ -5,10 +5,10 @@ These plots are intended to be used together with the [Google Earth Engine inter
 ![env_dat_histograms](https://user-images.githubusercontent.com/22145011/149950425-3809a784-5967-41b1-9216-0d1733a20042.png)
 Figure 1. A) Geology maps based on SA National Vegetation Map 2018. All remaining plots show the summary statistics for all grasslands (big) and sandy grasslands (small). Sandy grasslands are based on the SA Vegetation Map 2018. B) Top 5 landcover categories from the South African National Land Cover (SA NLC) Map 2018 for all grasslands. C) Top 5 landcover categories from the SA NLC Map 2018 for only sandy grasslands. D) Elevation (m). E) Bedrock depth (cm). F) Mean Annual Rainfall (mm). G) Sand content (%). 
 
-![rainfall_maps](https://user-images.githubusercontent.com/22145011/149951109-865b0885-c56b-4642-9a16-36264e3d0b10.png)
+![rainfall_maps](https://user-images.githubusercontent.com/22145011/149952991-d6d03b9d-c2dd-4180-b14e-1b8c7b2e54c1.png)
 Figure 2. Rainfall maps, showing A) the rainfall across South Africa's grasslands and B) dichotomised rainfall into low and high at a 650 mm threshold.
 
-![sand_maps](https://user-images.githubusercontent.com/22145011/149951314-b3cf7106-c582-4acb-bada-7acba0acbc7a.png)
+![sand_maps](https://user-images.githubusercontent.com/22145011/149953015-6190f684-c09a-445e-a30d-e72848ce3ba4.png)
 Figure 3. Sand content maps, showing A) the sand content across South Africa's grasslands and B) dichotomised sand content into low and high at a 60 % threshold.
 
 ![dichot_mar_snd_map](https://user-images.githubusercontent.com/22145011/149902490-17f380ca-dc1a-460f-9000-bbc7863fe696.png)
