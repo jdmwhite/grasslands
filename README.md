@@ -8,7 +8,7 @@ Figure 1. A) Geology maps based on SA National Vegetation Map 2018. All remainin
 ![rainfall_maps](https://user-images.githubusercontent.com/22145011/149952991-d6d03b9d-c2dd-4180-b14e-1b8c7b2e54c1.png)
 Figure 2. Rainfall maps, showing A) the rainfall across South Africa's grasslands and B) dichotomised rainfall into low and high at a 650 mm threshold.
 
-![sand_maps](https://user-images.githubusercontent.com/22145011/149953015-6190f684-c09a-445e-a30d-e72848ce3ba4.png)
+![sand_maps](https://user-images.githubusercontent.com/22145011/149953410-8bf26846-9877-4a9b-a763-a9378eb81399.png)
 Figure 3. Sand content maps, showing A) the sand content across South Africa's grasslands and B) dichotomised sand content into low and high at a 60 % threshold.
 
 ![dichot_mar_snd_map](https://user-images.githubusercontent.com/22145011/149902490-17f380ca-dc1a-460f-9000-bbc7863fe696.png)
