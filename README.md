@@ -19,10 +19,18 @@ Figure 4. The factorial map of low and high Mean Annual Rainfall and Sand Conten
 Figure 5. The legend for the SA NLC Map 2018
 
 Table 1. Site information
-| Site name  | Mean Annual Rainfall (mm) | Sand Content (%) | Sand-Rainfall Category
-| ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Site name  | Mean Annual Rainfall (mm) | Sand Content (%) | Sand-Rainfall ID  | Sand-Rainfall category
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Taaibosbult  | 623  | 61  | 3  | low rain-high sand  |
+| Roodekraal  | 619  | 57  | 4  | low rain-low sand  |
+| Rooipoort  | 624  | 53  | 4  | low rain-low sand  |
+| Lekwana  | 626  | 63  | 3  | low rain-high sand  |
+| Boskopdam  | 624  | 57  | 4  | low rain-low sand  |
+| Amersfoort  | 763  | 51  | 2  | high rain-low sand  |
+| Verloren Valei  | 948  | 43  | 2 | high rain-low sand  |
+| Paulpietersburg  | 888  | 45  | 2  | high rain-low sand  |
+| Nooitgedacht  | 757  | 52  | 2  | high rain-low sand  |
+
 
 Data sources:
 - South African National Vegetation Map 2018 (SANBI) (https://bgis.sanbi.org/SpatialDataset/Detail/1674)
