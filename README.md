@@ -18,6 +18,12 @@ Figure 4. The factorial map of low and high Mean Annual Rainfall and Sand Conten
 
 Figure 5. The legend for the SA NLC Map 2018
 
+Table 1. Site information
+| Site name  | Mean Annual Rainfall (mm) | Sand Content (%) | Sand-Rainfall Category
+| ------------- | ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+
 Data sources:
 - South African National Vegetation Map 2018 (SANBI) (https://bgis.sanbi.org/SpatialDataset/Detail/1674)
 - South African National Land Cover Map 2018 (DAFF) (https://egis.environment.gov.za/gis_data_downloads)
