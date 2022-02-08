@@ -2,6 +2,10 @@
 
 These plots are intended to be used together with the Google Earth Engine interactive site explorer: [https://jdmwhite.users.earthengine.app/view/grassland-project-site-identification](https://jdmwhite.users.earthengine.app/view/grassland-project-site-identification) to help show the legends and summaries for the land cover and environmental layers. 
 
+Two approaches were used to select sites:
+1) [Sand content](sand.md)
+2) [Surface lithology](lithology.md)
+
 ![env_dat_histograms](https://user-images.githubusercontent.com/22145011/149950425-3809a784-5967-41b1-9216-0d1733a20042.png)
 Figure 1. A) Geology maps based on SA National Vegetation Map 2018. All remaining plots show the summary statistics for all grasslands (big) and sandy grasslands (small). Sandy grasslands are based on the SA Vegetation Map 2018. B) Top 5 landcover categories from the South African National Land Cover (SA NLC) Map 2018 for all grasslands. C) Top 5 landcover categories from the SA NLC Map 2018 for only sandy grasslands. D) Elevation (m). E) Bedrock depth (cm). F) Mean Annual Rainfall (mm). G) Sand content (%). 
 
