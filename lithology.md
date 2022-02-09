@@ -4,7 +4,7 @@ Work in progress...
 
 Interactive viewer, clipped to only show quartzite dominated soils within the Pretoria Group: https://jdmwhite.users.earthengine.app/view/site-selection-quartz
 
-Aspect is a derived product from the Shuttle Radar Topography Mission (SRTM). The categories used to convert degrees to cardinal directions are:
+Aspect is a derived product from the Shuttle Radar Topography Mission (SRTM) digital elevation model. The categories used to convert degrees to cardinal directions are:
 
 | Degrees  | Cardinal directions |
 | ------------- | ------------- |
@@ -48,3 +48,5 @@ Data sources:
 - South African National Vegetation Map 2018 (SANBI) (https://bgis.sanbi.org/SpatialDataset/Detail/1674)
 - Worldclim BIO Variables (https://doi:10.1002/joc.1276)
 - Surface lithology from SA Council for Geoscience (sourced by Elaine)
+- Land form categories (https://developers.google.com/earth-engine/datasets/catalog/CSP_ERGo_1_0_Global_ALOS_landforms#description)
+- Aspect derived from SRTM mission (https://developers.google.com/earth-engine/datasets/catalog/USGS_SRTMGL1_003?hl=en)
