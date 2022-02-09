@@ -2,7 +2,7 @@
 
 Interactive viewer, clipped to only show quartzite dominated soils within the Pretoria Group: https://jdmwhite.users.earthengine.app/view/site-selection-quartz
 
-Not completed...
+Work in progress... 
 
 ![pta_group_lith](https://user-images.githubusercontent.com/22145011/153000398-0957b9b5-1990-48ee-9beb-8342f2e2b465.png)
 Figure 1. Simplified lithology descriptions of the Pretoria Group. The gray background indicates the grassland biome.
