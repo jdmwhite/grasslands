@@ -26,7 +26,7 @@ The surface lithology descriptions have been simplified from 16 down to 7 catego
 | ------------- | ------------- |
 | Andesite, conglomerate  | Andesite, conglomerate  |
 | Basaltic andesite, minor felsite, pyroclastic rocks, arenite and hornfels  | Basaltic andesite  |
-| Hornfels, quartzite, carbonate and chert  | CHornfels, quartzite |
+| Hornfels, quartzite, carbonate and chert  | Hornfels, quartzite |
 | Metamorphosed mudstone and shale with minor quartzite, dolomite and chert | Meta. mudstone and shale  |
 | Quartzite with minor shale and siltstone  | Quartzite  |
 | Quartzite, feldspathic quartzite, arkose  | Quartzite  |
