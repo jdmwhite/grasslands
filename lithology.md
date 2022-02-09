@@ -7,6 +7,27 @@ Not completed...
 ![pta_group_lith](https://user-images.githubusercontent.com/22145011/153000398-0957b9b5-1990-48ee-9beb-8342f2e2b465.png)
 Figure 1. Simplified lithology descriptions of the Pretoria Group. The gray background indicates the grassland biome.
 
+The surface lithology descriptions have been simplified from 16 down to 7 categories, based on the dominant lithology. Full descriptions are shown in the table below:
+
+| Detailed categories  | Simplified categories |
+| ------------- | ------------- |
+| Andesite, conglomerate  | Andesite, conglomerate  |
+| Basaltic andesite, minor felsite, pyroclastic rocks, arenite and hornfels  | Basaltic andesite  |
+| Hornfels, quartzite, carbonate and chert  | CHornfels, quartzite |
+| Metamorphosed mudstone and shale with minor quartzite, dolomite and chert | Meta. mudstone and shale  |
+| Quartzite with minor shale and siltstone  | Quartzite  |
+| Quartzite, feldspathic quartzite, arkose  | Quartzite  |
+| Quartzite, minor shale  | Quartzite  |
+| Quartzite, shale, subordinate subgreywacke  | Quartzite  |
+| Quartzite, siltstone, conglomerate, shale  | Quartzite  |
+| Quartzite, siltstone, conglomerate, shale, andesite  | Quartzite  |
+| Quartzitic sandstone, mudrock and (in the west) conglomerate  | Quartzite  |
+| Shale, minor limestone/dolomite, basalt and tuff  | Shale  |
+| Shale, quartzite, conglomerate, breccia, diamictite  | Shale  |
+| Shale, subordinate siltstone, minor quartzite  | Shale  |
+| Shale/hornfels and minor carbonate rocks overlain in the south by argillaceous quartzite and arkose | Shale  |
+| Tuff and agglomerate overlain by pillow basalt  | Tuff and agglomerate  |
+
 ![pta_group_rain](https://user-images.githubusercontent.com/22145011/153000477-c0c8ada2-3f63-453e-83b0-d47dcaddb7a3.png)
 Figure 2. The mean annual precipitation (MAP) of the Pretoria Group. The gray background indicates the grassland biome.
 
