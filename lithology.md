@@ -1,8 +1,21 @@
 # Site selection based on surface lithology
 
+Work in progress... 
+
 Interactive viewer, clipped to only show quartzite dominated soils within the Pretoria Group: https://jdmwhite.users.earthengine.app/view/site-selection-quartz
 
-Work in progress... 
+Aspect is a derived product from the Shuttle Radar Topography Mission (SRTM). The categories used to convert degrees to cardinal directions are:
+
+| Degrees  | Cardinal directions |
+| ------------- | ------------- |
+| 337.5 - 22.5 | N  |
+| 22.5 - 67.5  | NE |
+| 67.5 - 112.5  | E |
+| 112.5 - 157.5 | SE  |
+| 157.5 - 202.5 | S  |
+| 202.5 - 247.5  | SW  |
+| 247.5 - 292.5  | W  |
+| 292.5 - 337.5  | NW  |
 
 ![pta_group_lith](https://user-images.githubusercontent.com/22145011/153000398-0957b9b5-1990-48ee-9beb-8342f2e2b465.png)
 Figure 1. Simplified lithology descriptions of the Pretoria Group. The gray background indicates the grassland biome.
