@@ -7,23 +7,23 @@ Suggested sites by Elaine:
 |:------------------------------|--------:|---------:|:-------------|:----------------------|:------------------|:------|------:|
 |Amersfoort/ Maquabe            | 30.20994| -26.96541|NA            |NA                     |NA                 |NA     |     NA|
 |Boskopdam NR                   | 27.11452| -26.52887|NA            |NA                     |NA                 |NA     |     NA|
-|Lekwena 1                      | 27.19148| -26.62337|dry (< 600mm) |Andesite, conglomerate |Lower slope (flat) |E      |     63|
-|Lekwena 2                      | 27.16647| -26.63624|dry (< 600mm) |Andesite, conglomerate |Lower slope (warm) |SW     |     63|
+|Lekwena 1                      | 27.19148| -26.62337|dry (< 650mm) |Andesite, conglomerate |Lower slope (flat) |E      |     63|
+|Lekwena 2                      | 27.16647| -26.63624|dry (< 650mm) |Andesite, conglomerate |Lower slope (warm) |SW     |     63|
 |Nooitgedacht NR                | 30.62289| -25.97972|NA            |NA                     |NA                 |NA     |     NA|
 |Paulpietersburg                | 30.90297| -27.53917|NA            |NA                     |NA                 |NA     |     NA|
-|Roodekraal South               | 27.14690| -26.84755|dry (< 600mm) |Andesite, conglomerate |Lower slope (flat) |NW     |     58|
+|Roodekraal South               | 27.14690| -26.84755|dry (< 650mm) |Andesite, conglomerate |Lower slope (flat) |NW     |     58|
 |Roodekraal 1                   | 27.13234| -26.83140|NA            |NA                     |NA                 |NA     |     NA|
 |Roodekraal 2                   | 27.13222| -26.82677|NA            |NA                     |NA                 |NA     |     NA|
-|Rooipoort 1                    | 27.17704| -26.83098|dry (< 600mm) |Andesite, conglomerate |Lower slope (flat) |W      |     55|
-|Rooipoort 2                    | 27.18111| -26.81696|dry (< 600mm) |Andesite, conglomerate |Lower slope (flat) |S      |     52|
+|Rooipoort 1                    | 27.17704| -26.83098|dry (< 650mm) |Andesite, conglomerate |Lower slope (flat) |W      |     55|
+|Rooipoort 2                    | 27.18111| -26.81696|dry (< 650mm) |Andesite, conglomerate |Lower slope (flat) |S      |     52|
 |Taaibosbult 1                  | 27.93741| -26.87191|NA            |NA                     |NA                 |NA     |     NA|
 |Taaibosbult 2                  | 27.93101| -26.85017|NA            |NA                     |NA                 |NA     |     NA|
-|Verloren Vallei Nature Reserve | 30.11850| -25.30093|wet (> 600mm) |Quartzite              |Upper slope (warm) |S      |     44|
-|Manzini Guest Farm             | 27.26087| -26.66356|dry (< 600mm) |Andesite, conglomerate |Upper slope (flat) |N      |     63|
+|Verloren Vallei Nature Reserve | 30.11850| -25.30093|wet (> 650mm) |Quartzite              |Upper slope (warm) |S      |     44|
+|Manzini Guest Farm             | 27.26087| -26.66356|dry (< 650mm) |Andesite, conglomerate |Upper slope (flat) |N      |     63|
 |Limerick Lodge                 | 27.57741| -26.94163|NA            |NA                     |NA                 |NA     |     NA|
-|Kamaoto Safaris                | 27.26192| -26.66293|dry (< 600mm) |Andesite, conglomerate |Upper slope (flat) |N      |     63|
-|NW possible site #3            | 27.01778| -26.96882|dry (< 600mm) |Quartzite              |Lower slope (flat) |E      |     64|
-|NW possible site #4            | 27.07036| -26.99207|dry (< 600mm) |Andesite, conglomerate |Upper slope (flat) |S      |     66|
+|Kamaoto Safaris                | 27.26192| -26.66293|dry (< 650mm) |Andesite, conglomerate |Upper slope (flat) |N      |     63|
+|NW possible site #3            | 27.01778| -26.96882|dry (< 650mm) |Quartzite              |Lower slope (flat) |E      |     64|
+|NW possible site #4            | 27.07036| -26.99207|dry (< 650mm) |Andesite, conglomerate |Upper slope (flat) |S      |     66|
 
 
 Aspect is a derived product from the Shuttle Radar Topography Mission (SRTM) digital elevation model. The categories used to convert degrees to cardinal directions are:
