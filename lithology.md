@@ -1,5 +1,5 @@
 # Site selection based on surface lithology
-Interactive viewer, clipped to only show quartzite dominated soils within the Pretoria Group: https://jdmwhite.users.earthengine.app/view/site-selection-quartz
+Interactive viewer, clipped to only show quartzite/andesite dominated soils within the Pretoria Group: https://jdmwhite.users.earthengine.app/view/site-selection-quartz
 
 Suggested sites by Elaine:
 
@@ -24,6 +24,8 @@ Suggested sites by Elaine:
 |Kamaoto Safaris                | 27.26192| -26.66293|dry (< 650mm) |Andesite, conglomerate |Upper slope (flat) |N      |     63|
 |NW possible site #3            | 27.01778| -26.96882|dry (< 650mm) |Quartzite              |Lower slope (flat) |E      |     64|
 |NW possible site #4            | 27.07036| -26.99207|dry (< 650mm) |Andesite, conglomerate |Upper slope (flat) |S      |     66|
+
+
 
 
 Aspect is a derived product from the Shuttle Radar Topography Mission (SRTM) digital elevation model. The categories used to convert degrees to cardinal directions are:
