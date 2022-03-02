@@ -1,7 +1,7 @@
 # Site selection based on surface lithology
 Interactive viewer, clipped to only show quartzite/andesite dominated soils within the Pretoria Group: https://jdmwhite.users.earthengine.app/view/site-selection-quartz
 
-Suggested sites by Elaine:
+Extracted environmental variables for sites suggested by Elaine:
 
 |Name                           |      Lon|       Lat|MAP class     |PTA group              |Landforms          |Aspect | Sand %|
 |:------------------------------|--------:|---------:|:-------------|:----------------------|:------------------|:------|------:|
