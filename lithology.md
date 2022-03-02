@@ -5,25 +5,25 @@ Suggested sites by Elaine:
 
 | Name  | Lon | Lat  | MAP class | PTA group | Landform | Aspect | Sand %
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
+| Amersfoort/ Maquabe |  |  |  |  |  |  |  |  |  |
+| Boskopdam NR |  |  |  |  |  |  |  |  |  |
+| Lekwena |  |  |  |  |  |  |  |  |  |
+| Lekwena |  |  |  |  |  |  |  |  |  |
+| Nooitgedacht NR |  |  |  |  |  |  |  |  |  |
+| Paulpietersburg |  |  |  |  |  |  |  |  |  |
+| Roodekraal South |  |  |  |  |  |  |  |  |  |
+| Roodekraal |  |  |  |  |  |  |  |  |  |
+| Roodekraal |  |  |  |  |  |  |  |  |  |
+| Rooipoort |  |  |  |  |  |  |  |  |  |
+| Rooipoort |  |  |  |  |  |  |  |  |  |
+| Taaibosbult |  |  |  |  |  |  |  |  |  |
+| Taaibosbult |  |  |  |  |  |  |  |  |  |
+| Verloren Valei |  |  |  |  |  |  |  |  |  |
+| Manzini |  |  |  |  |  |  |  |  |  |
+| Limerick |  |  |  |  |  |  |  |  |  |
+| Kamaoto |  |  |  |  |  |  |  |  |  |
+| NW possible site 3 |  |  |  |  |  |  |  |  |  |
+| NW possible site 4 |  |  |  |  |  |  |  |  |  |
 
 
 Aspect is a derived product from the Shuttle Radar Topography Mission (SRTM) digital elevation model. The categories used to convert degrees to cardinal directions are:
