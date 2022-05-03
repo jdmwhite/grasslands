@@ -34,4 +34,5 @@ The summary statistics for the 15 sites identified. Some sites fall outside of t
 
 
 ## Link to interactive map:
-[![mapview_screenshot](https://user-images.githubusercontent.com/22145011/166584809-7844d071-82c4-44e1-bc2f-8c1edfe4d10b.png)](http://jdmwhite.github.io/grasslands/mapview.html)
+
+[![mapview_screenshot](https://user-images.githubusercontent.com/22145011/166586063-a0b4d690-311f-4880-a7fa-9d5a8bba4e03.png)](http://jdmwhite.github.io/grasslands/mapview.html)
