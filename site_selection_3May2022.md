@@ -1,5 +1,11 @@
 ## Finding sites 3 May 2022
 
+## Link to interactive map:
+
+http://jdmwhite.github.io/grasslands/map.html
+
+## Summary Stats for Sites
+
 The summary statistics for the 15 sites identified. Some sites fall outside of the Pretoria Group. 
 
 |Site Name                     |MAP class     |Aspect |Landforms          | Sand %|Geology Group               |
@@ -30,6 +36,3 @@ The summary statistics for the 15 sites identified. Some sites fall outside of t
 |NW_SD - Grassland 5           |dry (< 650mm) |NW     |Upper slope (flat) |     63|PTA GRP: Quartzite, others  |
 |NW_SD - Ploughed 4 ?          |dry (< 650mm) |W      |Lower slope (flat) |     57|other: Diabase              |
 
-## Link to interactive map:
-
-http://jdmwhite.github.io/grasslands/map.html
