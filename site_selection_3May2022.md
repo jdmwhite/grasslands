@@ -2,8 +2,6 @@
 
 ## Link to interactive map:
 
-![tmap_screenshot](https://user-images.githubusercontent.com/22145011/166504460-8ba6b6a9-be64-44ae-a991-a33bf34248f0.png)
-
 [![tmap_screenshot](https://user-images.githubusercontent.com/22145011/166504460-8ba6b6a9-be64-44ae-a991-a33bf34248f0.png)](http://jdmwhite.github.io/grasslands/tmap.html)
 
 ## Summary Stats for Sites
