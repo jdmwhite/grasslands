@@ -30,6 +30,6 @@ The summary statistics for the 15 sites identified. Some sites fall outside of t
 |NW_SD - Grassland 5           |dry (< 650mm) |NW     |Upper slope (flat) |     63|PTA GRP: Quartzite, others  |
 |NW_SD - Ploughed 4 ?          |dry (< 650mm) |W      |Lower slope (flat) |     57|other: Diabase              |
 
-<iframe src="http://jdmwhite.github.io/grasslands/map.html"></iframe>
+## Link to interactive map:
 
 http://jdmwhite.github.io/grasslands/map.html
