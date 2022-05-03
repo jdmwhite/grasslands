@@ -3,6 +3,7 @@
 ## Link to interactive map:
 
 http://jdmwhite.github.io/grasslands/tmap.html
+<iframe src = http://jdmwhite.github.io/grasslands/tmap.html> </iframe>
 
 ## Summary Stats for Sites
 
